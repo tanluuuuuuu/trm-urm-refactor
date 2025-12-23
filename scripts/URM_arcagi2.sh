@@ -11,4 +11,5 @@ puzzle_emb_lr=1e-4 \
 weight_decay=0.1 \
 use_muon=True \
 +run_name=$run_name \
-+checkpoint_path=$checkpoint_path ema=True
++checkpoint_path=$checkpoint_path \
++ema=True

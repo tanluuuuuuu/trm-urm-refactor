@@ -131,7 +131,9 @@ class PretrainConfig(pydantic.BaseModel):
     loop_deltas: List[str] = []
 
     ema: bool = False
-    ema_rate: float = 0.999    # EMA 衰减率，对应代码的 mu
+    ema_rate: float = 0.999
+
+    use_muon: bool = False
 
 
 
