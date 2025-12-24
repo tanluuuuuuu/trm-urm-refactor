@@ -26,6 +26,7 @@ arch.H_cycles=3 arch.L_cycles=6 \
 ```
 
 Results:
+
 <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/c0699d98-64d1-4f41-9c8f-818f924ad77b" />
 
 
